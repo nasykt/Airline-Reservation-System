@@ -6,13 +6,13 @@ details and price details. As a model of Reservation system you cannot book your
 using this app.
 
 Usage: create a database in MySQL as per given in ‘MYSQL DATABASE CREATION.pdf’ .
-             Configure eclipse IDE and Apache tomcat.
-             Clone the repository using the link:  
-             ‘https://github.com/nasykt/AIRLINE-RESERVATION-  SYSTEM.git   into your eclipse’.
-             Configure MySQL JDBC connector.
-             Run the application using: ‘http: //localhost:8080/AirlineReservations/index.html’
+              Configure eclipse IDE and Apache tomcat.
+              Clone the repository using the link:  
+              ‘https://github.com/nasykt/AIRLINE-RESERVATION-  SYSTEM.git   into your eclipse’.
+              Configure MySQL JDBC connector.
+              Run the application using: ‘http: //localhost:8080/AirlineReservations/index.html’
 
- You can see the ‘index.html’ front page by using this link: ‘  https://rawgit.com/nasykt/Airline-Reservation-System/blob/master/WebContent/index.html ‘.
+ You can see the ‘index.html’ front page by using this link: ‘  https://rawgit.com/nasykt/Airline-Reservation-System/master/WebContent/index.html
  
 
 
