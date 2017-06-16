@@ -16,13 +16,8 @@ Usage: create a database in MySQL as per given in ‘MYSQL DATABASE CREATION.pdf
  
 
 
-Creation: - Created ‘index.html ‘as front page where we can select Departure and Arrival. We can select date using date picker. 
-            Airport images showing based on your selection functionality has given in the front page. Submission send to Servlet.
-         
-         -Created ‘Reservatins.java’ servlet. By taking inputs as parameters it execute Sql Prepared statement query. First update 
-           the table date column based on the given date and the conditions given. ‘datecode’ column in the table is the key point 
-           to update date column. After update date column it retrieve appropriate data from database and send these values into 
-           jsp page.
-         
-         -created ‘result.jsp’. it shows the results sent from servlet page.
+Creation: 
+- Created ‘index.html ‘as front page where we can select Departure and Arrival. We can select date using date picker. Airport images showing based on your selection functionality has given in the front page. Submission send to Servlet.JavaScript,jQuery library and CSS included inside html page.
+-Created ‘Reservatins.java’ servlet. By taking inputs as parameters it execute Sql Prepared statement query. First             update the table date column based on the given date and the conditions given. ‘datecode’ column in the table is the  key point  to update date column. After update date column it retrieve appropriate data from database and send these values into jsp page.    
+-created ‘result.jsp’. it shows the results sent from servlet page.
 
