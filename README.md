@@ -17,6 +17,7 @@ Usage: create a database in MySQL as per given in ‘MYSQL DATABASE CREATION.pdf
 
 
 Creation: 
+
 - Created ‘index.html ‘as front page where we can select Departure and Arrival. We can select date using date picker. Airport images showing based on your selection functionality has given in the front page. Submission send to Servlet.JavaScript,jQuery library and CSS included inside html page.
 
 
