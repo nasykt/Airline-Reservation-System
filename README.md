@@ -8,7 +8,7 @@ using this app.
 Usage: create a database in MySQL as per given in ‘MYSQL DATABASE CREATION.pdf’ .
               Configure eclipse IDE and Apache tomcat.
               Clone the repository using the link:  
-              ‘https://github.com/nasykt/AIRLINE-RESERVATION-  SYSTEM.git   into your eclipse’.
+              ‘https://github.com/nasykt/Airline-Reservation-System.git  into your eclipse’.
               Configure MySQL JDBC connector.
               Run the application using: ‘http: //localhost:8080/AirlineReservations/index.html’
 
